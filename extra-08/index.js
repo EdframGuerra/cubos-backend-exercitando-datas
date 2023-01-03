@@ -14,7 +14,7 @@ console.log(dataB);
 
 
 //c) 5 out
-const dataC = format(new Date(2020, 9, 5), "dd MMM");
+const dataC = format(new Date(2020, 9, 5), "dd clearMMM");
 console.log(dataC);
 
 //d) 05 out 2020
@@ -29,6 +29,6 @@ console.log(dataE);
 
 const dataF = format(new Date(2020, 9, 5), "dd/MMM");
 console.log(dataF);
-
+S
 
 
