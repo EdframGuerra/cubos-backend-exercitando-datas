@@ -1,7 +1,3 @@
-// Dada a seguinte lista de pessoas, que se registraram em diferentes empresas em diferentes datas, precisamos que você ordene essa lista dos registros mais antigos para os mais novos.
-
-// comparar datas === transformar em time stemp e aplicar o metodo sort() para ordenar conforme pedido na questão!
-
 const listaDePessoas = [
     { "name": "Kirkland", "company": "ECLIPSENT", "registered": "Mon Dec 07 2015 07:01:50 GMT+0000" },
     { "name": "Elise", "company": "ILLUMITY", "registered": "Fri Mar 02 2018 11:37:56 GMT+0000" },
